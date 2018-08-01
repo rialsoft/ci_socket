@@ -15,7 +15,7 @@ open browser
 ## Special Thanks
 * [CodeIgniter](http://codeigniter.com)
 * [Ratchet](http://socketo.me)
-* [Anant Garg](anantgarg.com) (for chat.js )
+* [Anant Garg](http://anantgarg.com) (for chat.js )
 
 ## Licence
 
