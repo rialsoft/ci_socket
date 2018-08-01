@@ -1,4 +1,4 @@
-# ci_socket
+# [CI Socket](https://github.com/rialsoft/ci_socket)
 
 CodeIgniter Version 3.1.9 <br/>
 Ratchet Version 0.4<br/>
